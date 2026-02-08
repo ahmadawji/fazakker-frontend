@@ -1,0 +1,5 @@
+{
+  "name": "NoorShare",
+  "description": "A dashboard to automate daily Hadith sharing across Facebook, Instagram, and WhatsApp. Manage schedules, connect accounts, and view engagement history.",
+  "requestFramePermissions": []
+}
